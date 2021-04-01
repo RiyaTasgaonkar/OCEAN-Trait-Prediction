@@ -9,5 +9,6 @@ The Big Five Model is the most widely accepted personality theory. The theory st
 
 <br>
 
-<img src="https://measuringsel.casel.org/wp-content/uploads/2018/08/big5.png" alt="ocean traits">
+<!--[![](https://www.tonybates.ca/wp-content/uploads/Big-5-personality-traits.png)]()-->
+<!--<img src="https://measuringsel.casel.org/wp-content/uploads/2018/08/big5.png" alt="ocean traits">-->
 <br>
